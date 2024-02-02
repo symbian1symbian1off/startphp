@@ -1,7 +1,7 @@
 <?php
-echo "how old are you "
-$n= "10"
-switch $n {
+echo "how old are you " ;
+$n= "10" ;
+switch ($n){
 case 5:
     $result = "you are too young !!!";
     break ;
